@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs and React**
 
-- 📝 I regularly write articles on [https://medium.com/@mohinimahato](https://medium.com/@mohinimahato)
+/*- 📝 I regularly write articles on [https://medium.com/@mohinimahato](https://medium.com/@mohinimahato)*/
 
 - 💬 Ask me about **Javascript, Bootstrap**
 
