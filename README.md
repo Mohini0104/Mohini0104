@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Exploring the world of technology and figuring out life simultaneously</h3>
 
 - 🌱 I’m currently learning **Nodejs and React**
 
