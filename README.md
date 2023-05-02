@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  height="500" src="https://images.axios.com/P8L1dsVnQM3KkVgPVSftI7gfQtc=/0x0:1280x720/1920x1080/2022/03/11/1647029097188.gif">
+  <img  height="300" src="https://images.axios.com/P8L1dsVnQM3KkVgPVSftI7gfQtc=/0x0:1280x720/1920x1080/2022/03/11/1647029097188.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohini</h1>
