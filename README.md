@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nodejs and React**
 
-- 💬 Ask me about **Javascript, Bootstrap**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **mohinimahatowork@gmail.com**
 
